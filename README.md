@@ -1,5 +1,41 @@
-# 💫 About Me:
-i;m currently persuing my study in engineering btech in cse fron narula institute of technology <br>i am in 3rd year right now <br>i am looking to collaborate on opensource programm<br>
+# 👨‍💻 About Me
+
+🎓 B.Tech in Computer Science & Engineering (3rd Year)
+Narula Institute of Technology
+
+🔭 Currently working on:
+Building practical software projects and strengthening my core programming skills through hands-on development and continuous learning.
+
+🤝 Looking to collaborate on:
+Projects related to Java, Python, C++, Machine Learning, and problem-solving, especially those that focus on real-world applications.
+
+🆘 Looking for help with:
+
+Advanced Data Structures & Algorithms
+
+Applying Machine Learning concepts to real datasets
+
+Writing scalable and optimized code
+
+🌱 Currently learning:
+
+Java (OOP, core concepts)
+
+Python (scripting, automation, data handling)
+
+Machine Learning (basics, supervised & unsupervised learning)
+
+Data Structures & Algorithms
+
+Object-Oriented Programming
+
+Git & GitHub for version control
+
+💬 Ask me about:
+C++, Java, Python basics, OOP concepts, beginner-level Machine Learning, and my academic & project experience.
+
+⚡ Fun fact:
+I enjoy breaking down complex problems into simple, logical solutions and turning ideas into working code.<br>
 
 
 ## 🌐 Socials:
