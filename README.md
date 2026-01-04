@@ -11,28 +11,22 @@ Projects related to Java, Python, C++, Machine Learning, and problem-solving, es
 
 🆘 Looking for help with:
 
-Advanced Data Structures & Algorithms
-
-Applying Machine Learning concepts to real datasets
-
-Writing scalable and optimized code
+-Advanced Data Structures & Algorithms
+-Applying Machine Learning concepts to real datasets
+-Writing scalable and optimized code
 
 🌱 Currently learning:
 
-Java (OOP, core concepts)
-
-Python (scripting, automation, data handling)
-
-Machine Learning (basics, supervised & unsupervised learning)
-
-Data Structures & Algorithms
-
-Object-Oriented Programming
-
-Git & GitHub for version control
+-Java (OOP, core concepts)
+-Python (scripting, automation, data handling)
+-Machine Learning (basics, supervised & unsupervised learning)
+-C++ Programming 
+-Data Structures & Algorithms
+-Object-Oriented Programming
+-Git & GitHub for version control
 
 💬 Ask me about:
-C++, Java, Python basics, OOP concepts, beginner-level Machine Learning, and my academic & project experience.
+  C++, Java, Python basics, OOP concepts, beginner-level Machine Learning, and my academic & project experience.
 
 ⚡ Fun fact:
 I enjoy breaking down complex problems into simple, logical solutions and turning ideas into working code.<br>
