@@ -3,32 +3,40 @@
 🎓 B.Tech in Computer Science & Engineering (3rd Year)
 Narula Institute of Technology
 
-🔭 Currently working on:
+🔭 Currently working on:<br>
 Building practical software projects and strengthening my core programming skills through hands-on development and continuous learning.
 
-🤝 Looking to collaborate on:
+🤝 Looking to collaborate on:<br>
 Projects related to Java, Python, C++, Machine Learning, and problem-solving, especially those that focus on real-world applications.
 
 🆘 Looking for help with:
 
 -Advanced Data Structures & Algorithms
+
 -Applying Machine Learning concepts to real datasets
+
 -Writing scalable and optimized code
 
 🌱 Currently learning:
 
 -Java (OOP, core concepts)
+
 -Python (scripting, automation, data handling)
+
 -Machine Learning (basics, supervised & unsupervised learning)
+
 -C++ Programming 
+
 -Data Structures & Algorithms
+
 -Object-Oriented Programming
+
 -Git & GitHub for version control
 
-💬 Ask me about:
+💬 Ask me about:<br>
   C++, Java, Python basics, OOP concepts, beginner-level Machine Learning, and my academic & project experience.
 
-⚡ Fun fact:
+⚡ Fun fact:<br>
 I enjoy breaking down complex problems into simple, logical solutions and turning ideas into working code.<br>
 
 
